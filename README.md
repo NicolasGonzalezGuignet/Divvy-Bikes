@@ -1,1 +1,1 @@
-# Divvy-Bikes
+The Jupyter notebook "divvy-bikes-2022" showcases a practical data analysis project regarding a bike-sharing company aiming to maximize its customer memberships. To achieve this goal, it is necessary to understand the differences between casual customers and members. This project demonstrates the main differences, based on data, between the various types of customers of the company.
